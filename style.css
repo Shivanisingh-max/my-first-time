@@ -1,0 +1,16 @@
+.box{
+    height:500px;
+    width:100%;
+    background-image: url("background.jpg");
+    background-size: cover;
+    color:white;
+    font-size:larger;
+    font-weight:bolder;
+    text-align:center;
+}
+.hello{
+    position:absolute;
+    margin:300px;
+    
+    
+}
